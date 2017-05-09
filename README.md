@@ -41,19 +41,18 @@ Along the briny beach:
 We cannot do with more than four,  
 To give a hand to each."  
 
-"Do you see this?", the ~~Walrus~~ **KMan** said  
+**"Do you see this?", the ~~Walrus~~ **KMan** said  
 Pointing to his slides  
 I have here a template,  
 I wrote it down in SAM,  
 My functions, tables, APIs, ...  
 My whole serverless stack!  
 
-"You package it, you deploy it"  
+**"You package it, you deploy it"  
 CloudFormation does it all,  
-"Aha aha aha ..." said the ~~Carpenter~~ **Jagavkar**  
-"I want to try this now,"  
+"Aha aha aha ..." said the ~~Carpenter~~ Jagavkar   
 I hope this makes it easier,  
-I guess I'll try it now!  
+I guess I'll try it now!**  
  
 The eldest ~~Oyster~~ **server** looked at him,  
 But never a word he said:  
@@ -100,13 +99,13 @@ And all of us are fat!"
 They thanked him much for that.  
 
 ~~"A loaf of bread," the Walrus said~~,  
-"A build project," the **KMan** said,  
+**"A build project," the KMan said,  
 "Is what we chiefly need:  
 ~~Pepper and vinegar besides~~  
 **CodeCommit and CodePipeline besides**   
 Are very good indeed--  
 Now if you're ready, ~~Oysters~~ **servers** dear,  
-We can begin to feed."  
+We can begin to feed."** 
 
 "But not on us!" the ~~Oysters~~ **servers** cried,  
 Turning a little blue.  
